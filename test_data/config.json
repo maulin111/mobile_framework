@@ -1,11 +1,12 @@
 {
-  "port": "7878",
-  "device": "cloud",
+  "port": "4723",
+  "device": "local",
   "platformName": "android",
-  "deviceName": "oneplus",
+  "deviceName": "Pixel 4 API 33",
   "app": "",
-  "appPackage": "org.khanacademy.android",
-  "appActivity": "org.khanacademy.android.ui.library.MainActivity",
+  "udid": "emulator-5554",
+  "appPackage": "com.code2lead.kwad",
+  "appActivity": "com.code2lead.kwad.MainActivity",
   "user_id": "",
   "token": "",
   "app_id": ""
